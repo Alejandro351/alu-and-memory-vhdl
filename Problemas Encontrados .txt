@@ -1,0 +1,19 @@
+### Problemas que tuve durante el proyecto
+
+1. Al principio intenté compilar primero el archivo principal de memoria, pero me salían errores porque faltaban otros archivos. Después entendí que primero debía compilar la ROM, la RAM y los puertos.
+
+2. También pensé que solo tenía que abrir el archivo de memoria en ModelSim, pero no funcionaba. Tocaba tener todos los archivos del proyecto cargados para que la simulación corriera bien.
+
+3. Tuve un problema con la RAM porque una dirección estaba de 7 bits y la memoria principal trabajaba con 8 bits. Eso hacía que no se conectaran bien los archivos.
+
+4. En la simulación los datos salían en binario y era difícil entenderlos. Luego cambié la vista a hexadecimal y fue más fácil revisar las direcciones y los datos.
+
+5. Al inicio de la simulación aparecían valores como "X" o "U". Después vi que era porque algunas señales todavía no tenían un valor definido.
+
+6. Algunos nombres de señales no coincidían entre archivos. Por eso tuve que revisar bien los nombres de entradas y salidas para que todo quedara conectado.
+
+7. Al comienzo hice pocas pruebas en la RAM. Luego agregué más pruebas de lectura y escritura para estar más seguro de que sí funcionaba.
+
+8. Al principio me costó entender de dónde salía cada dato en "data_out". Después revisé la dirección usada y así pude saber si el dato venía de la ROM, la RAM o el puerto de entrada.
+
+9. En la ALU hubo unas cuantas veces que se activaban ciertas banderas que no correspondian con la operacion, fue por el orden de impresion del "NZVC" y mala lectura de resultdos.

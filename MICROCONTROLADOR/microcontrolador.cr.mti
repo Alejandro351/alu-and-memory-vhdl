@@ -1,0 +1,50 @@
+D:/Quartus/MICROCONTROLADOR/rom_128x8_sync/rom_128x8_sync.vhd {1 {vcom -work work -2002 -explicit D:/Quartus/MICROCONTROLADOR/rom_128x8_sync/rom_128x8_sync.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity rom_128x8_sync
+-- Compiling architecture rtl of rom_128x8_sync
+
+} {} {}} D:/Quartus/MICROCONTROLADOR/ram_96x8_sync/ram_96x8_sync.vhd {1 {vcom -work work -2002 -explicit D:/Quartus/MICROCONTROLADOR/ram_96x8_sync/ram_96x8_sync.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ram_96x8_sync
+-- Compiling architecture rtl of ram_96x8_sync
+
+} {} {}} D:/Quartus/MICROCONTROLADOR/tbmemory.vhd {1 {vcom -work work -2002 -explicit D:/Quartus/MICROCONTROLADOR/tbmemory.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tbmemory
+-- Compiling architecture sim of tbmemory
+-- Loading entity memory
+
+} {} {}} D:/Quartus/MICROCONTROLADOR/output_port_1x8/output_port_1x8.vhd {1 {vcom -work work -2002 -explicit D:/Quartus/MICROCONTROLADOR/output_port_1x8/output_port_1x8.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity output_port_1x8
+-- Compiling architecture rtl of output_port_1x8
+
+} {} {}} D:/Quartus/MICROCONTROLADOR/memory/memory.vhd {1 {vcom -work work -2002 -explicit D:/Quartus/MICROCONTROLADOR/memory/memory.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity memory
+-- Compiling architecture rtl of memory
+-- Loading entity rom_128x8_sync
+-- Loading entity ram_96x8_sync
+-- Loading entity output_port_1x8
+
+} {} {}}

@@ -1,0 +1,194 @@
+m255
+K3
+13
+cModel Technology
+dD:\Quartus\ALU
+Ememory
+Z0 w1779991851
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dD:\Quartus\MICROCONTROLADOR
+Z5 8D:/Quartus/MICROCONTROLADOR/memory/memory.vhd
+Z6 FD:/Quartus/MICROCONTROLADOR/memory/memory.vhd
+l0
+L5
+V1ik3USD3bE?^ZZ@KGdSR]2
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1780089926.112000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Quartus/MICROCONTROLADOR/memory/memory.vhd|
+Z10 !s107 D:/Quartus/MICROCONTROLADOR/memory/memory.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 hNFR07Y_8jkNcEahPV2XK2
+!i10b 1
+Artl
+Z13 DEx4 work 15 output_port_1x8 0 22 M^R6ni]bhD^7=^zfVe9Gg3
+Z14 DEx4 work 13 ram_96x8_sync 0 22 A@LjnN_mSob2I2K`8JiC[2
+Z15 DEx4 work 14 rom_128x8_sync 0 22 ^mRgC3gaoJnA2jT`7Ga_c3
+R1
+R2
+R3
+Z16 DEx4 work 6 memory 0 22 1ik3USD3bE?^ZZ@KGdSR]2
+l24
+L18
+VF3jNb[_0jlbazXlS5KD_12
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 f=6[]FgDYY7AofMI=H0bA2
+!i10b 1
+Eoutput_port_1x8
+Z17 w1779992195
+R1
+R2
+R3
+R4
+Z18 8D:/Quartus/MICROCONTROLADOR/output_port_1x8/output_port_1x8.vhd
+Z19 FD:/Quartus/MICROCONTROLADOR/output_port_1x8/output_port_1x8.vhd
+l0
+L5
+VM^R6ni]bhD^7=^zfVe9Gg3
+R7
+32
+Z20 !s108 1780089926.838000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Quartus/MICROCONTROLADOR/output_port_1x8/output_port_1x8.vhd|
+Z22 !s107 D:/Quartus/MICROCONTROLADOR/output_port_1x8/output_port_1x8.vhd|
+R11
+R12
+!s100 80SodH84_^CkLh[mPfZLB2
+!i10b 1
+Artl
+R1
+R2
+R3
+R13
+l17
+L16
+V<NEBfC_J8P1;h[9F;;Bbi3
+R7
+32
+R20
+R21
+R22
+R11
+R12
+!s100 ?Nag3S[@^7:WIhUM?2Yh;3
+!i10b 1
+Eram_96x8_sync
+Z23 w1779992119
+R1
+R2
+R3
+R4
+Z24 8D:/Quartus/MICROCONTROLADOR/ram_96x8_sync/ram_96x8_sync.vhd
+Z25 FD:/Quartus/MICROCONTROLADOR/ram_96x8_sync/ram_96x8_sync.vhd
+l0
+L5
+VA@LjnN_mSob2I2K`8JiC[2
+R7
+32
+Z26 !s108 1780089927.086000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Quartus/MICROCONTROLADOR/ram_96x8_sync/ram_96x8_sync.vhd|
+Z28 !s107 D:/Quartus/MICROCONTROLADOR/ram_96x8_sync/ram_96x8_sync.vhd|
+R11
+R12
+!s100 jdi5]B>FV>GZ7X6NK8d641
+!i10b 1
+Artl
+R1
+R2
+R3
+R14
+l19
+L15
+V>mGSRgmd3=YmNEoJfcUb10
+!s100 Iz7z1k27EBdHFm5]23<3[1
+R7
+32
+R26
+R27
+R28
+R11
+R12
+!i10b 1
+Erom_128x8_sync
+Z29 w1779992051
+R1
+R2
+R3
+R4
+Z30 8D:/Quartus/MICROCONTROLADOR/rom_128x8_sync/rom_128x8_sync.vhd
+Z31 FD:/Quartus/MICROCONTROLADOR/rom_128x8_sync/rom_128x8_sync.vhd
+l0
+L5
+V^mRgC3gaoJnA2jT`7Ga_c3
+!s100 @9LPF?2XfkYZ1KHW9U=JO3
+R7
+32
+!i10b 1
+Z32 !s108 1780089927.295000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Quartus/MICROCONTROLADOR/rom_128x8_sync/rom_128x8_sync.vhd|
+Z34 !s107 D:/Quartus/MICROCONTROLADOR/rom_128x8_sync/rom_128x8_sync.vhd|
+R11
+R12
+Artl
+R1
+R2
+R3
+R15
+l25
+L13
+Z35 Vzd>]=YD`1niV?AVD?03BA1
+Z36 !s100 1>j0c;^2DW9lzdk<i@04i1
+R7
+32
+!i10b 1
+R32
+R33
+R34
+R11
+R12
+Etbmemory
+Z37 w1780000549
+R1
+R2
+R3
+R4
+Z38 8D:/Quartus/MICROCONTROLADOR/tbmemory.vhd
+Z39 FD:/Quartus/MICROCONTROLADOR/tbmemory.vhd
+l0
+L5
+V8F8cQ>TgFPCXdJaHbn>jJ0
+R7
+32
+Z40 !s108 1780089926.364000
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Quartus/MICROCONTROLADOR/tbmemory.vhd|
+Z42 !s107 D:/Quartus/MICROCONTROLADOR/tbmemory.vhd|
+R11
+R12
+!s100 FSCL<;4fS99]<z;:fmm<b2
+!i10b 1
+Asim
+R16
+R1
+R2
+R3
+DEx4 work 8 tbmemory 0 22 8F8cQ>TgFPCXdJaHbn>jJ0
+l19
+L8
+V9Xh9cgR?_<h6RXem5OGZZ3
+R7
+32
+R40
+R41
+R42
+R11
+R12
+!s100 f4[W?kiaZb63^:NYF[HVf1
+!i10b 1
